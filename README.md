@@ -2,6 +2,8 @@
 
 Estou em <strong>EVOLUÇÃO</strong> de carreira. Aprendendo um pouco mais sobre Desenvolvimento Web.
 <br><br>
+°🎓 Estudando desenvolvimento FullStack no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<br><br>
 Minhas principais hard skills são:<br>
 
 -   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
