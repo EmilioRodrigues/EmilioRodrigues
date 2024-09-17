@@ -1,3 +1,6 @@
+![tag_tech_final](https://github.com/user-attachments/assets/77e65c1e-594a-4ad9-a5ce-9f368240dd5e)
+
+
 ## Seja bem vindo!! Eu sou Emilio Rodrigues
 
 Estou em <strong>EVOLUÇÃO</strong> de carreira. Aprendendo um pouco mais sobre Desenvolvimento Web.
