@@ -3,7 +3,9 @@
 
 ## Seja bem vindo!! Eu sou Emilio Rodrigues
 
-Estou em <strong>EVOLUÇÃO</strong> de carreira. Aprendendo um pouco mais sobre Desenvolvimento Web.
+Este é meu github pessoal, onde procuro mostrar tudo o que nho aprendido nesse universo da Programação. 
+Diagramador por opção e empreendedor por vocação, tenho aprendido coisas novas a cada dia. E como você ja deve ter percebido, sempre haverá coisas novas a aprender.
+Então. Aperte o cinto e vamos em frente.
 <br><br>
 °🎓 Estudando desenvolvimento FullStack no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br><br>
