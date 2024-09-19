@@ -20,6 +20,6 @@ Minhas principais hard skills são:<br>
 
 -   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" />
 
--   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
+-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" /> <strong>Cursando</strong>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarodev12&exclude_repo=github-readme-stats,anuraghazra.github.io)
