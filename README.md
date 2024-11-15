@@ -3,7 +3,7 @@
 
 ## Seja bem vindo!! Eu sou Emilio Rodrigues
 
-Este é meu github pessoal, onde procuro mostrar tudo o que nho aprendido nesse universo da Programação. 
+Este é meu github pessoal, onde procuro mostrar um pouco do que tenho aprendido nesse universo da Programação Web. 
 Diagramador por paixão e empreendedor por vocação, tenho aprendido coisas novas a cada dia. 
 E como você ja deve ter percebido, <strong>sempre haverá coisas novas a aprender</strong>.
 Então, aperte o cinto e vamos em frente.
