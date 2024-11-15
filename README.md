@@ -10,6 +10,7 @@ Então, aperte o cinto e vamos em frente.
 
 
 <br><br>
+°🎓 Conclui o curso de Programação Web (200 hs) pelo IFRS.
 °🎓 Estudando desenvolvimento FullStack no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br><br>
 Minhas principais hard skills são:<br>
